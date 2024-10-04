@@ -1,7 +1,19 @@
 <h1 align="center">Hey there! 👋 </h1>
-I'm Harsh, but you can call me Hp. (Yeah, not the laptop)<br>🌱 Learning<br>Currently diving deep into advanced software development concepts—always looking for new ways to sharpen my coding skills.<br><br>📫 How to reach me<br>You can hit me up here:<br>📧 contacthp311@gmail.com<br><br>⚡ Fun fact<br>When I'm not writing code, I'm probably either lost in an awesome anime world or exploring books that make me think twice about reality. Big fan of anything that stretches the mind.
+<hr>
+I'm Harsh, but you can call me Hp. (Yeah, not the laptop)<br>
+🌱 Learning
+<br>
+Currently diving deep into advanced software development concepts—always looking for new ways to sharpen my coding skills.
+<br>
+<br>
+📫 How to reach me<br>You can hit me up here:
+<br>📧 contacthp311@gmail.com<br>
+<br>
+⚡ Fun fact
+<br>
+When I'm not writing code, I'm probably either lost in an awesome anime world or exploring books that make me think twice about reality. Big fan of anything that stretches the mind.
 
-
+<hr>
 ## 🌐 Socials:
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itshp7)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacthp311@gmail.com)
