@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 </h1>
-<hr>
+<!-- <hr> -->
 I'm Harsh, but you can call me Hp. (Yeah, not the laptop)<br>
 🌱 Learning
 <br>
