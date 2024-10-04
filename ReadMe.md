@@ -3,7 +3,7 @@
 I am Harsh, but you can call me Hp. (Yeah, not the laptop)
 
 - 🌱 Currently diving deep into advanced software development concepts—always looking for new ways to sharpen my coding skills.
-- 📫 How to reach me<br>You can hit me up here:📧 [contacthp311@gmail.com](mailto:contacthp311@gmail.com).
+- 📫 How to reach me: You can hit me up here:📧 [contacthp311@gmail.com](mailto:contacthp311@gmail.com).
 - ⚡ Fun fact: When I'm not writing code, I'm probably either lost in an awesome anime world or exploring any artform—like music or visuals—that sparks my imagination. Big fan of anything that stretches the mind.
 
 <hr>
