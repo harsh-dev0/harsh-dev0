@@ -14,7 +14,6 @@ Currently diving deep into advanced software development concepts—always looki
 When I'm not writing code, I'm probably either lost in an awesome anime world or exploring books that make me think twice about reality. Big fan of anything that stretches the mind.
 
 <hr>
-## 🌐 Socials:
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itshp7)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacthp311@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pal-040007214/)
