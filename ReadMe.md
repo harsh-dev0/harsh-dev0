@@ -1,6 +1,6 @@
-<h1 align="center">Hey there! 👋 </h1>
+<h1 align="center">Hi, I am Harsh. </h1>
 <!-- <hr> -->
-I am Harsh, but you can call me Hp.
+
 
 <hr>
 
